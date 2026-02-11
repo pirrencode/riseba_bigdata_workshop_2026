@@ -3,3 +3,5 @@ RISEBA University Workshop for Big Data Analytics Course
 
 Step 1. Working on Git setup.
 Step 2. Getting ready for Snowflake.
+
+Step 3. Make a task (jānis)
